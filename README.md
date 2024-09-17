@@ -21,40 +21,11 @@ Este projeto tem como objetivo realizar uma análise da filmografia do diretor C
 ## Estrutura do Projeto
 
 - **`Análise da Filmografia de Christopher Nolan.ipynb`**: O notebook principal contendo o código para realizar a análise dos filmes.
-- **`data/`**: Diretório contendo os dados utilizados na análise (caso existam arquivos de dados externos).
-  
-## Como Executar
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/analise-nolan.git
-   ```
-
-2. Navegue até o diretório do projeto:
-   ```bash
-   cd analise-nolan
-   ```
-
-3. Instale as dependências necessárias:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Abra o notebook `Análise da Filmografia de Christopher Nolan.ipynb`:
-   ```bash
-   jupyter notebook Análise\ da\ Filmografia\ de\ Christopher\ Nolan.ipynb
-   ```
-
-5. Execute as células do notebook para gerar as análises e visualizações.
-
+- 
 ## Resultados Esperados
 
-Espera-se que o projeto produza gráficos e tabelas que ilustram a distribuição dos gêneros de filmes mais frequentes na obra de Christopher Nolan, bem como qualquer outra característica relevante observada durante a análise.
+Espera-se que o projeto produza gráficos e tabelas que ilustram a distribuição dos gêneros de filmes mais frequentes na obra de Christopher Nolan, bem como a relação entre bufget e revenue.
 
 ## Contribuições
 
 Sinta-se à vontade para abrir issues ou enviar pull requests para melhorias no projeto.
-
-## Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
